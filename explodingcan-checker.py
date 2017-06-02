@@ -7,6 +7,7 @@ Based on:
  * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7269
 
 Author: Lorenzo Grespan 
+License: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 """
 from __future__ import print_function
