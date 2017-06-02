@@ -11,6 +11,7 @@ License: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 # Usage:
 
+```
 usage: explodingcan-checker.py [-h] (-t TARGET | -f FILE) [-d]
                                [--timeout TIMEOUT] [--username USERNAME]
                                [--password PASSWORD] [--bw]
@@ -25,3 +26,4 @@ optional arguments:
   --username USERNAME   Username for authentication
   --password PASSWORD   Password for authentication
   --bw                  Suppress colours in output
+```
